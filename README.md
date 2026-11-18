@@ -3,6 +3,8 @@
 A Windows Forms app (C#) that solves a system of linear equations
 with Gaussian elimination and shows every step visually.
 
+![screenshot](screenshot.png)
+
 ## Features
 - Enter equations one at a time, with instant validation
 - Edit the last equation if you made a mistake
